@@ -1,2 +1,6 @@
 .env
 **~
+**vendor
+**vendor/
+**vendor/**
+vendor/**
